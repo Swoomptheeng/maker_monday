@@ -1,4 +1,5 @@
 /* 12x Capacitive Keys, a Mic and a gyroscope sending MIDI over Bluetooth */
+/* NOTE : havn't actually tested this code (as it's very slightly differn't from that in use - I removed lots of comments and debris - I assume it all still works!) */
 
 #include <Wire.h>
 #include "Adafruit_MPR121.h"
