@@ -15,3 +15,6 @@ v3. Uses swaps USB for Bluetooth communications and looses the flex sensor
 
 
 This system runs connects to a Windows laptop and uses the Hairless MIDI Serial (http://projectgus.github.io/hairless-midiserial/) to capture serial data over USB or Bluetooth COMM ports from the Arduino and sends it to the BeLoop virtual MIDI driver (http://www.nerds.de/en/loopbe1.html) which controls music software and games via the MIDI protocol.
+
+<img src="http://swoomptheeng.com/wp-content/uploads/png/SwoomptheengSwoompipe.png" />
+The v3 Swoompipe (just the pipe section)
