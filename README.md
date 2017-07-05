@@ -11,7 +11,7 @@ v1. Uses flex sensor, electret mic & capacitive Keys over USB
 
 v2. Uses adds an accelerometer/gyroscope
 
-v3. Uses swaps USB for Bluetooth communications and loses the flex sensor
+v3. Swaps USB for Bluetooth communications and loses the flex sensor
 
 
 This system connects to a Windows laptop and uses the Hairless MIDI Serial (http://projectgus.github.io/hairless-midiserial/) to capture serial data over USB or Bluetooth COM ports from the Arduino and sends it to the BeLoop virtual MIDI driver (http://www.nerds.de/en/loopbe1.html) which controls music software and games via the MIDI protocol.
