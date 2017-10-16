@@ -1,10 +1,10 @@
-# maker_monday
-Arduino files containing code relating to the Maker Monday Commission.
+# The Swoompipe
+Arduino files containing code relating to the Swoompipe. Originally a BCU Maker Monday Commission.
 More on the project at http://swoomptheengs.tumblr.com
 
 The 'Swoompipe' is a weird MIDI bagpipe. It's squeezable (via Flex Sensor), blow-into-able (via Electret Mic), tilt and motion sensing (via Accelerometer/Gyroscope) and playable with 12 capacitive touch sensitive keys. 
 
-It's being developed by Ben Neal (www.psiconlab.co.uk) with Swoomptheeng (www.Swoomptheeng.com) as part of a Birmingham City University Maker Monday Commission.
+It's being developed by Ben Neal (www.psiconlab.co.uk) with Swoomptheeng (www.Swoomptheeng.com) originally as part of a Birmingham City University Maker Monday Commission and was shown at the Victoria and Albert Museum, London as part of Digital Design Weekend 2017.
 
 
 v1. Uses flex sensor, electret mic & capacitive Keys over USB
